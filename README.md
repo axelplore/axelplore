@@ -1,9 +1,4 @@
-# A first-level heading
-## A second-level heading
-### A third-level heading
-
-### Hi there! 👋
-One Axel explores the wordls 🗺
+### One Axel explores the world 🗺
 
 <!--
 **axelplore/axelplore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
